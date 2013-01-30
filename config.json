@@ -1,14 +1,73 @@
 {
-    "javascript":[
-        {"script":"jquery","version":"1.9.0","location":"Google CDN"},
-        {"script":"jquery appear","version":"1.1.1","location":"local","dependency":"jquery"},
-        {"script":"fancybox","version":"2.1.4","location":"local","dependency":"jquery"},
-        {"script":"Bootstrap Carousel","version":"2.2.2","location":"local","dependency":"jquery"},
-        {"script":"Bootstrap Collapse","version":"2.2.2","location":"local","dependency":"jquery"},
-        {"script":"Bootstrap Modal","version":"2.2.2","location":"local","dependency":"jquery"},
-        {"script":"Bootstrap Popovers","version":"2.2.2","location":"local","dependency":"jquery"},
-        {"script":"Bootstrap Tabs","version":"2.2.2","location":"local","dependency":"jquery"},
-        {"script":"Bootstrap Tooltips","version":"2.2.2","location":"local","dependency":"jquery"},
-        {"script":"Bootstrap Transitions","version":"2.2.2","location":"local","dependency":"jquery"}
+    "javascript": [
+        {
+            "script": "jQuery",
+            "version": "1.9.0",
+            "location": "Google CDN",
+            "input_name": "sl_jQuery"
+        },
+        {
+            "script": "jQuery Appear",
+            "version": "1.1.1",
+            "location": "local",
+            "dependency": "jQuery",
+            "input_name": "sl_jQuery_appear"
+        },
+        {
+            "script": "fancyBox",
+            "version": "2.1.4",
+            "location": "local",
+            "dependency": "jQuery",
+            "input_name": "sl_fancybox"
+        },
+        {
+            "script": "Bootstrap Carousel",
+            "version": "2.2.2",
+            "location": "local",
+            "dependency": "jQuery",
+            "input_name": "sl_bootstrap_carousel"
+        },
+        {
+            "script": "Bootstrap Collapse",
+            "version": "2.2.2",
+            "location": "local",
+            "dependency": "jQuery",
+            "input_name": "sl_bootstrap_collapse"
+        },
+        {
+            "script": "Bootstrap Modal",
+            "version": "2.2.2",
+            "location": "local",
+            "dependency": "jQuery",
+            "input_name": "sl_bootstrap_modal"
+        },
+        {
+            "script": "Bootstrap Popovers",
+            "version": "2.2.2",
+            "location": "local",
+            "dependency": "jQuery",
+            "input_name": "sl_bootstrap_popovers"
+        },
+        {
+            "script": "Bootstrap Tabs",
+            "version": "2.2.2",
+            "location": "local",
+            "dependency": "jQuery",
+            "input_name": "sl_bootstrap_tabs"
+        },
+        {
+            "script": "Bootstrap Tooltips",
+            "version": "2.2.2",
+            "location": "local",
+            "dependency": "jQuery",
+            "input_name": "sl_bootstrap_tooltips"
+        },
+        {
+            "script": "Bootstrap Transitions",
+            "version": "2.2.2",
+            "location": "local",
+            "dependency": "jQuery",
+            "input_name": "sl_bootstrap_transitions"
+        }
     ]
 }
